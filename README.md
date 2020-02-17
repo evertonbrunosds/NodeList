@@ -1,2 +1,2 @@
 # NodeList
-Este projeto consiste em uma lista encadeada cujos seus elementos são inseridos de maneira ordenada, podendo ser usada para simular uma fila de prioridades.
+Olá, caro estudante! Este é um projeto foi  desenvolvido na linguagem de programação java. Ademais o mesmo consiste na construção de uma lista encadeada cujos seus elementos são inseridos de maneira ordenada, algo que pode lhe proporcionar a possibilidade de ser utilizada como uma fila de prioridades, caso necessite. Além disso, ela possui alguns outros alguns métodos básicos visando sua utilização, dentre eles: busca, remoção e exibição de dados.
